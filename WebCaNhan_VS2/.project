@@ -3,6 +3,9 @@
 	<name>WebCaNhan_VS2</name>
 	<comment></comment>
 	<projects>
+		<project>mysql-connector-java-5.1.39-bin</project>
+		<project>taglibs-standard-impl-1.2.5</project>
+		<project>taglibs-standard-spec-1.2.5</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
